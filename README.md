@@ -11,6 +11,14 @@ Showcase your best skills in this exercise. This includes unit testing, YAGNI, K
 
 Geogebra formula:
 
+
+x(t) = x₀ + v₀ₓ · t
+
+y(t) = y₀ + v₀ᵧ · t
+
+z(t) = z₀ + v₀𝓏 · t − ½ · g · t²
+
+
 https://www.geogebra.org/graphing/wvecmfts
 
 <img width="577" height="302" alt="image" src="https://github.com/user-attachments/assets/0712b373-675e-441c-a3b1-efbbc311ee01" />
